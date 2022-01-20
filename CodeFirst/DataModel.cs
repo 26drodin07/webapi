@@ -7,7 +7,7 @@ using System.Text.Json.Serialization;
 namespace CodeFirst
 {
     public class Message
-    {   //sasdad
+    { 
         public int Id { get; set; }
         public string author { get; set; }
         public DateTime date { get; set; }
